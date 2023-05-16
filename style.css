@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Noto Serif Japanese|Teko|Alkatra');
+
+body{
+    background-color: #4F505A;
+    font-family: 'Alkatra'; 
+}
+
+#photo{
+    height: 650px;
+    margin: 30px;
+    float: left;
+    width: 300px;
+    background-color: #0C0F16;
+}
+
+#name , #jobtitle{
+    color: #BBB8BA;
+    text-align: center;
+}
+
+#aboutHead{
+    color: #BBB8BA ;
+    background-color: #0C0F16;
+    width: 180px;
+}
+
+#intro{
+    float: left;
+    width: 1200px;
+    text-align: justify;
+    margin: 5px;
+    margin-top: 30px;
+}
+
+nav a{
+    text-decoration: none;
+    margin-right: 8px;
+    color: #BBB8BA;
+    border-bottom: 3px dashed #BBB8BA;
+
+}
+
+#nav{
+    float: right;
+    margin-right: 300px;
+}
+
+nav a:hover{
+    background-color: black;
+}
